@@ -16,14 +16,11 @@
       "user_id": 1
     }
   ],
-  "balance": [
-    {
-      "user_id": 1,
-      "balance": 100
-    },
-    {
-      "user_id": 2,
-      "balance": 100
-    }
-  ]
+  "balance": {
+    "username": "MP_user1",
+    "balance": 97300
+  },
+  "buy": {
+    "balance": 97250
+  }
 }
