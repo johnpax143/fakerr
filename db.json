@@ -1,17 +1,29 @@
-[
-  {
-    "ticket_number": "MP2-1",
-    "raffle_id": 2,
-    "user_id": 1
-  },
-  {
-    "ticket_number": "MP2-2",
-    "raffle_id": 2,
-    "user_id": 1
-  },
-  {
-    "ticket_number": "MP2-3",
-    "raffle_id": 2,
-    "user_id": 1
-  }
-]
+{
+  "tickets": [
+    {
+      "ticket_number": "MP2-1",
+      "raffle_id": 2,
+      "user_id": 1
+    },
+    {
+      "ticket_number": "MP2-2",
+      "raffle_id": 2,
+      "user_id": 1
+    },
+    {
+      "ticket_number": "MP2-3",
+      "raffle_id": 2,
+      "user_id": 1
+    }
+  ],
+  "balance": [
+    {
+      "user_id": 1,
+      "balance": 100
+    },
+    {
+      "user_id": 2,
+      "balance": 100
+    }
+  ]
+}
