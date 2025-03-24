@@ -1,0 +1,17 @@
+[
+  {
+    "ticket_number": "MP2-1",
+    "raffle_id": 2,
+    "user_id": 1
+  },
+  {
+    "ticket_number": "MP2-2",
+    "raffle_id": 2,
+    "user_id": 1
+  },
+  {
+    "ticket_number": "MP2-3",
+    "raffle_id": 2,
+    "user_id": 1
+  }
+]
