@@ -22,5 +22,8 @@
   },
   "buy": {
     "balance": 97250
+  },
+  "bonus": {
+    "balance": 254
   }
 }
